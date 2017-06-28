@@ -9,10 +9,12 @@ Essential sensors are used with arduino mega and new sketch is written with Room
 If you want to contribute this project please send an e-mail !
 
 Completed Features;
+
 -Wheel encoders, bump sensors, user interface (buttons and leds) used.
 -Random bouncing algorithm and wall following algorithm. Robot start with clean mode and count the bumps, when bumps reached 20 it start wall following algorithm about 60 seconds.
 
 Feature ideas;
+
 - Roomba melodies with speaker
 - Escape algorithm when stucked
 - Auto chargergins as original roomba
