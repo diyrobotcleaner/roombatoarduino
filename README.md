@@ -1,5 +1,5 @@
 # roombatoarduino
-Coversation of Roomba Discovery mainboard to Arduino Mega
+Conversation of Roomba Discovery mainboard to Arduino Mega
 
 
 This page is created for Roomba Discovery to Arduino conversation project. Story began with my roomba discovery failure, mainboard was defected than i have decided to remove mainboard and using Arduino Mega instead of it.
